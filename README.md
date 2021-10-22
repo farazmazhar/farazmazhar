@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-I am Data and Cloud Engineer with about 2 years of experience.
+I am Data and Cloud Engineer with about 3 years of experience.
 
 ---
 
-#### Python - Hadoop - Spark - Cloud*
+#### Python - Hadoop - Spark - AWS* - Azure - Databricks
 
 *AWS Certified Developer - Associate
 
