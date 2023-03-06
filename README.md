@@ -12,8 +12,8 @@ I am Data and Cloud Engineer with about 3 years of experience.
 
 You can visit [my website](http://farazmazhar.com) or look though my projects here on Github.
 
----
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farazmazhar&show_icons=true&hide_border=true&theme=tokyonight " />
+<!-- ---
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farazmazhar&show_icons=true&hide_border=true&theme=tokyonight " /> -->
 
 
 <!--
