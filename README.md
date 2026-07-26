@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Faraz+Mazhar+%F0%9F%91%8B;Managing+Consultant+%7C+Data+Engineering;8%2B+Years+in+Data+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Faraz+Mazhar+%F0%9F%91%8B;Managing+Consultant@SystemsLtd;Data+Engineering;Solution+Architect;8%2B+Years+in+Data+Platforms" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 Data engineer with **8+ years** building scalable data platforms on **AWS** and **Azure**. I architect and lead development of modular data frameworks powering enterprise analytical and ML pipelines. I own the full lifecycle — from data modeling and lakehouse design through API integration, orchestration, and production deployment.
 
-- 🏢 **Managing Consultant** at [Systems Limited](https://www.systemsltd.com/) — Data Engineering Lead for PartnerLinq
+- 🏢 **Managing Consultant** at [Systems Limited](https://www.systemsltd.com/) — Solutions Architect and Data Engineering Lead for PartnerLinq
 - 🧠 Designing metadata-driven Spark pipelines on Databricks with Delta Lake
 - 🔧 Building multi-tenant orchestration gateways, GraphQL semantic APIs, and SQL query engines
 - ☁️ Deep expertise in AWS Glue, Azure Data Factory, Airflow, Kafka, and serverless architectures
