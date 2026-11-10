@@ -105,7 +105,7 @@ I build **data and AI frameworks** on top of **8+ years** of data engineering ex
 ## 📊 GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farazmazhar&theme=tokyonight&hide_border=true)](https://github.com/farazmazhar)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farazmazhar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://ghstats.dev/api/langs?username=farazmazhar&theme=dracula&layout=bar)
 
 <br/>
 
