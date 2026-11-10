@@ -21,28 +21,10 @@
 
 I build **data and AI frameworks** on top of **8+ years** of data engineering experience on **AWS** and **Azure**. On the AI side, that means multi-agent systems on **LangGraph** with custom workflow orchestration and signal handling between agents. On the data side, I architect modular platforms that power enterprise analytics and ML pipelines, and own the full lifecycle: data modeling, lakehouse design, API integration, orchestration, and production deployment.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**🏢 Role**<br/>
-Managing Consultant at [Systems Limited](https://www.systemsltd.com/), Solutions Architect and Data Engineering Lead for PartnerLinq
-
-**📍 Based in**<br/>
-Lahore, Pakistan
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Focus areas**<br/>
-Agentic AI systems · Metadata-driven data platforms · Lakehouse architecture · API-first design
-
-**💬 Ask me about**<br/>
-LangGraph and multi-agent design, agent orchestration and signaling, Spark on Databricks, GraphQL semantic layers
-
-</td>
-  </tr>
-</table>
+- 🏢 **Role:** Managing Consultant at [Systems Limited](https://www.systemsltd.com/), Solutions Architect and Data Engineering Lead for PartnerLinq
+- 📍 **Based in:** Lahore, Pakistan
+- 🎯 **Focus areas:** Agentic AI systems · Metadata-driven data platforms · Lakehouse architecture · API-first design
+- 💬 **Ask me about:** LangGraph and multi-agent design, agent orchestration and signaling, Spark on Databricks, GraphQL semantic layers
 
 <br/>
 
