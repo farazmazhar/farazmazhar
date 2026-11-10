@@ -104,10 +104,8 @@ I build **data and AI frameworks** on top of **8+ years** of data engineering ex
 
 ## 📊 GitHub
 
-<p>
-  <a href="https://github.com/farazmazhar?tab=repositories"><img src="https://img.shields.io/badge/Browse-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" /></a>
-  <a href="https://github.com/farazmazhar?tab=followers"><img src="https://img.shields.io/github/followers/farazmazhar?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3B82F6" alt="GitHub followers" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farazmazhar&theme=tokyonight&hide_border=true)](https://github.com/farazmazhar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farazmazhar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/farazmazhar?tab=repositories)
 
 <br/>
 
